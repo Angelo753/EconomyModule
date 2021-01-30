@@ -1,0 +1,22 @@
+currencies:
+  ppg:
+    name: PPG
+    startBalance: 5
+messages:
+  balance: '&8(&6&oPPG&8) &7Nyní máš &6&o{AMOUNT}PPG&7.'
+  pay: '&8(&6&oPPG&8) &7Dal jsi &6&o{AMOUNT}PPG &7hráči &6&o%player_name%&7.'
+  payTarget: '&8(&6&oPPG&8) &7Hráč &6&o%player_name% &7Ti dal &6&o{AMOUNT}PPG&7.'
+  take: '&8(&6&oPPG&8) &7Vzal jsi hráči &6&o%player_name% &6&o{AMOUNT}PPG&7.'
+  takeTarget: '&8(&6&oPPG&8) &7Bylo Ti odebráno &6&o{AMOUNT}PPG&7.'
+  give: '&8(&6&oPPG&8) &7Dal jsi hráči &6&o%player_name% &6&o{AMOUNT}PPG&7.'
+  giveTarget: '&8(&6&oPPG&8) &7Bylo Ti připsáno &6&o{AMOUNT}PPG&7.'
+  reset: '&8(&6&oPPG&8) &7Resetoval jsi hráči &6&oPPG &7na &6&o{AMOUNT}&7.'
+  resetTarget: '&8(&6&oPPG&8) &7Byly Ti resetovány PPG na &6&o{AMOUNT}&7.'
+  playerOffline: '&8(&6&oPPG&8) &7Hráč je offline.'
+  wrongNumber: '&8(&6&oPPG&8) &7Neplatné číslo.'
+  noMoney: '&8(&6&oPPG&8) &7Nemáš dostatek PPG.'
+  wrongUsage: '&8(&6&oPPG&8) &7Špatné použití příkazu.'
+  permissionError: '&8(&6&oPPG&8) &7Na tohle nemáš práva.'
+  onlyPlayer: '&8(&6&oPPG&8) &7Tohle můžeš pouze ve hře.'
+  reload: '&8(&6&oPPG&8) &7Plugin byl znovu načten.'
+data:

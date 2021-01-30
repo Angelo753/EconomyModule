@@ -1,0 +1,9 @@
+name: AngelEconomyModule
+version: @version@
+main: cz.angelo.angeleconomymodule.Main
+api-version: 1.16
+authors: [ Angelo753 ]
+depend:
+  - PlaceholderAPI
+commands:
+  ppg:
